@@ -99,3 +99,11 @@ Il faut parfois savoir perdre du temps pour en gagner
 
 #Adage 2 : 
 Il ne faut pas confondre vitesse et précipitation.
+
+#RDE
+Ridicule / Dangereux / Evident
+philosophe allemand Arthur Schopenhauer (1788 – 1860)
+« Toute vérité franchit trois étapes. D’abord elle est ridiculisée. Ensuite, elle subit une forte opposition. Puis, elle est considérée comme ayant toujours été une évidence. »
+
+« Quand vous aurez accordé à la femme des droits politiques […] vous aurez introduit dans la famille les querelles, les dissensions et le désordre, vous aurez détruit l’unité familiale. » – Edmond Lefèvre du Preÿ, député, cité par Le Figaro du 16 mai 1919
+
